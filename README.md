@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Full Stack Developer with skills in { jquery, node.js, express.js, mysql, sequelize, react }
 
-🏫 Still in School at the University of Utah Full Stack Development Bootcamp
+🏫 Earned certificate at the University of Utah Full Stack Development
 
 📫 This is my email if you want to contact me: bearbaier@gmail.com
 
