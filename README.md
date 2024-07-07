@@ -1,6 +1,6 @@
 👋 Hi, I’m Rick Baier
 
-👨‍💻 I'm a Full Stack Developer with skills in { jquery, node.js, express.js, mysql, sequelize, react }
+👨‍💻 I'm a Full Stack Developer and Test Software Specialist with skills in { jquery, node.js, express.js, mysql, sequelize, react }
 
 🏫 Earned certificate at the University of Utah Full Stack Development
 
